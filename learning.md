@@ -19,6 +19,11 @@
 * http://objectsonrails.com/
 * [Rules that aren't rules](http://gist.io/4567190)
 
+## Courses
+
+* http://pragmaticstudio.com/ruby
+* http://pragmaticstudio.com/rails
+
 ## Sample apps
 * https://github.com/elm-city-craftworks/practicing-ruby-web
 * https://github.com/thoughtbot/ruby-science/tree/master/example_app
