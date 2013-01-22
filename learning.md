@@ -93,7 +93,11 @@
 * http://www.sapphiresteel.com/The-Book-Of-Ruby
 * http://rails-nutshell.labs.oreilly.com/
 * http://edwinmeyer.com/Integrated_RHG.html
+* http://learn.thoughtbot.com/podcast/20
 
+## Newsletters
+* http://rubyweekly.com/
+* http://tinyletter.com/thoughtbot bot cave
 
 ## $$$ books
 * https://learn.thoughtbot.com/products/13 rubyscience
@@ -143,7 +147,8 @@
 * [Rails 3 in a Nutshell](http://rails-nutshell.labs.oreilly.com/)
 * [Programming Android](http://programming-android.labs.oreilly.com/index.html)
 * [iPhone 3D](http://iphone-3d-programming.labs.oreilly.com/)
-
+* http://www.oreillynet.com/linux/cmd/
+* 
 ## Code Converters
 * http://html2haml.heroku.com/
 * http://js2coffee.org/
