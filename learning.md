@@ -19,11 +19,6 @@
 * http://objectsonrails.com/
 * [Rules that aren't rules](http://gist.io/4567190)
 
-## Courses
-
-* http://pragmaticstudio.com/ruby
-* http://pragmaticstudio.com/rails
-
 ## Sample apps
 * https://github.com/elm-city-craftworks/practicing-ruby-web
 * https://github.com/thoughtbot/ruby-science/tree/master/example_app
@@ -49,12 +44,19 @@
 * http://readysetrails.com/
 * http://subinterest.com/rubies-in-the-rough
 * http://www.gschool.it/
-* screencasts
+
+### screencasts
+
 * http://railscasts.com/pro
 * http://destroyallsoftware.com
 * http://rubytapas.com
 * https://peepcode.com/
 * http://teamtreehouse.com/library (was thinkvitamin)
+
+### Courses
+
+* http://pragmaticstudio.com/ruby
+* http://pragmaticstudio.com/rails
 
 ## Other ruby miscellany
 * http://iwanttolearnruby.com/ (links)
