@@ -2,6 +2,7 @@
 
 ## Tutorials
 * https://github.com/thoughtbot/trail-map
+* https://learn.thoughtbot.com/ruby
 * http://tutorials.jumpstartlab.com/
 * http://ruby.learncodethehardway.org/
 * http://rubykoans.com/
@@ -12,8 +13,10 @@
 * http://testfirst.org/learn_ruby
 * http://www.codecademy.com/tracks/ruby
 * http://www.codeschool.com/courses/ruby-bits
+* http://pdxruby.org/learn
 * http://rebuilding-rails.com/
 * http://objectsonrails.com/
+* [Rules that aren't rules](http://gist.io/4567190)
 
 ## Sample apps
 * https://github.com/elm-city-craftworks/practicing-ruby-web
@@ -28,6 +31,7 @@
 * REST Client: https://github.com/archiloque/rest-client
 * Savon: https://github.com/savonrb/savon
 * Unicorn: https://github.com/defunkt/unicorn
+
 ### Rails
 * Comfortable Mexican Sofa: https://github.com/comfy/comfortable-mexican-sofa
 * Rubeque: https://github.com/SciMed/rubeque
@@ -111,6 +115,7 @@
 * http://www.poodr.info/ with code https://github.com/skmetz/poodr
 
 ## other online stuff not ruby because why not
+* http://lifehacker.com/5744113/learn-to-code-the-full-beginners-guide
 * http://rubymotion-tutorials.com/
 * https://github.com/arcturo/library
 * http://www.rustforrubyists.com/book/index.html
@@ -151,7 +156,7 @@
 
 ## Business
 * http://playbook.thoughtbot.com/
-* 
+ 
 ## Code Converters
 * http://html2haml.heroku.com/
 * http://js2coffee.org/
@@ -160,9 +165,9 @@
 
 # Online REPLs
 * A list of a bunch: http://repl.it/ and http://news.ycombinator.com/item?id=3056490
-* http://rubular.com/ for ruby regular expressions
 * Kerning http://type.method.ac/
-
+* SQL http://sqlfiddle.com/
+* 
 ## Tutorials
 ### Ruby
 * http://tryruby.org/
@@ -199,9 +204,10 @@
 ### Javascript
 * http://jsfiddle.net/
 * http://jsbin.com/
+* http://rocktronica.github.com/tmpltr/
 * http://www.jshint.com/ linting
-** packer: http://dean.edwards.name/packer/
-** decompressor: http://jsbeautifier.org/
+  * packer: http://dean.edwards.name/packer/
+  * decompressor: http://jsbeautifier.org/
 
 ### Jasmine
 * http://try-jasmine.heroku.com/
