@@ -167,7 +167,7 @@
 * A list of a bunch: http://repl.it/ and http://news.ycombinator.com/item?id=3056490
 * Kerning http://type.method.ac/
 * SQL http://sqlfiddle.com/
-* 
+
 ## Tutorials
 ### Ruby
 * http://tryruby.org/
