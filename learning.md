@@ -1,14 +1,15 @@
 # Ruby Learning Links
 
 ## Tutorials
+* http://tryruby.org/
 * https://github.com/thoughtbot/trail-map
 * https://learn.thoughtbot.com/ruby
 * http://tutorials.jumpstartlab.com/
 * http://ruby.learncodethehardway.org/
 * http://rubykoans.com/
 * http://rubymonk.com/
-* http://tryruby.org/
-* http://www.jasimabasheer.com/posts/meta_introduction_to_ruby.html* http://railsforzombies.org/
+* http://www.jasimabasheer.com/posts/meta_introduction_to_ruby.html
+* http://railsforzombies.org/
 * http://guides.rubyonrails.org/getting_started.html
 * http://testfirst.org/learn_ruby
 * http://www.codecademy.com/tracks/ruby
