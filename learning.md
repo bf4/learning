@@ -148,6 +148,9 @@
 * [Programming Android](http://programming-android.labs.oreilly.com/index.html)
 * [iPhone 3D](http://iphone-3d-programming.labs.oreilly.com/)
 * http://www.oreillynet.com/linux/cmd/
+
+## Business
+* http://playbook.thoughtbot.com/
 * 
 ## Code Converters
 * http://html2haml.heroku.com/
