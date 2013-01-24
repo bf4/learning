@@ -57,6 +57,7 @@
 
 * http://pragmaticstudio.com/ruby
 * http://pragmaticstudio.com/rails
+* http://rubyoffrails.com
 
 ## Other ruby miscellany
 * http://iwanttolearnruby.com/ (links)
@@ -172,6 +173,7 @@
 * :) https://github.com/facebook/hiphop-php/wiki/
 
 # Online REPLs
+* [RubyFiddle](http://rubyfiddle.com) 
 * A list of a bunch: http://repl.it/ and http://news.ycombinator.com/item?id=3056490
 * Kerning http://type.method.ac/
 * SQL http://sqlfiddle.com/
