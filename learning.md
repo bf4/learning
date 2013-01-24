@@ -90,7 +90,7 @@
 * http://guides.rubyonrails.org/
 * http://ruby.bastardsbook.com/chapters/mechanize/
 * http://xyzpub.com/en/ruby-on-rails/3.2/
-* http://ruby.railstutorial.org/book/ruby-on-rails-tutorial?version=3.0
+* http://ruby.railstutorial.org/book/ruby-on-rails-tutorial
 * http://rubybestpractices.com/
 * http://sandal.github.com/rbp-book/pdfs/rbp_1-0.pdf
 * http://mislav.uniqpath.com/poignant-guide/
