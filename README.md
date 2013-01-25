@@ -1,11 +1,20 @@
 Some learning resources
 ========
 
+See learning.md
+
 Do whatever you want with this repo and the information in it.
 
 Pull requests to help organize, format, and curate it very welcome.
 
-MIT License
+### TODO
+
+* Annotate the importance of the order of the resource and why
+* Try to keep the list more focused on the useful and up-to-date than comprehensive
+* Try to make the list easy to use to find whatnot
+* How much non-ruby stuff should be in here? How?
+
+### MIT License
 
 
 ### HISTORY
