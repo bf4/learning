@@ -11,6 +11,8 @@
 * REST Client: https://github.com/archiloque/rest-client
 * Savon: https://github.com/savonrb/savon
 * Unicorn: https://github.com/defunkt/unicorn
+* CopyCopter Ruby Client by Thoughtbot https://github.com/copycopter/copycopter-ruby-client
+* Effigy see comments https://github.com/jferris/effigy/blob/master/lib/effigy/class_list.rb
 
 ### Rails
 * Comfortable Mexican Sofa: https://github.com/comfy/comfortable-mexican-sofa
