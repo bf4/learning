@@ -1,4 +1,4 @@
-## online books
+## Online at no cost
 * http://guides.rubyonrails.org/
 * http://ruby.bastardsbook.com/chapters/mechanize/
 * http://xyzpub.com/en/ruby-on-rails/3.2/
@@ -7,9 +7,6 @@
 * http://sandal.github.com/rbp-book/pdfs/rbp_1-0.pdf
 * http://mislav.uniqpath.com/poignant-guide/
 * http://web.archive.org/web/20090423015736/http://www.mockobjects.com/book/index.html
-* http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books
-* http://railsapps.github.com/best-recommended-learning-rails-books-resources.html
-* http://everydayrails.com/2010/08/04/more-free-ruby-rails-books.html
 * http://www.humblelittlerubybook.com/
 * http://www.ruby-doc.org/docs/ProgrammingRuby/
 * http://openbook.galileocomputing.de/ruby_on_rails/
