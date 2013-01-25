@@ -26,6 +26,7 @@
 * http://subinterest.com/rubies-in-the-rough
 * http://www.gschool.it/
 * http://rubyoffrails.com
+* http://railsrampup.com/
 
 ## Screencasts
 ### Paid

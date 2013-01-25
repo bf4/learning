@@ -3,6 +3,10 @@
 * Kerning http://type.method.ac/
 
 ## Tutorials
+
+### Ruby
+* http://tryruby.org
+
 ### Python
 * http://try-python.appspot.com/
 * http://www.trypython.org/ requires silverlight
@@ -58,6 +62,7 @@
 * http://rubyxp.com/ (I really like this)
 * https://github.com/martinisoft/graffiti
 * http://rentzsch.github.com/JSRegexTeststand/
+* [Regular expressions fiddle](http://refiddle.com/)
 
 ### ARC
 * http://arclanguage.org/item?id=12212 http://evanrmurphy.posterous.com/try-arc-todo

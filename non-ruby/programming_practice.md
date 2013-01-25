@@ -6,3 +6,4 @@
 * https://www.topcoder.com/
 * http://thecodelesscode.com/contents
 * http://robots.thoughtbot.com/post/159808605/coding-without-ifs [Anti If Campaign](http://www.antiifcampaign.com/)
+* http://codingbat.com/

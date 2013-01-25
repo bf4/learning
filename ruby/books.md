@@ -24,12 +24,16 @@
 * http://www.rustforrubyists.com/book/index.html
 
 ## Paid Books
+* [Rails 4 in Action](http://manning.com/bigg2)
+* eloquent ruby
+* the ruby programming language (pickaxe)
+* agile web development with rails (pragprog)
+* http://www.poodr.info/ with code https://github.com/skmetz/poodr
+
+### ebook only
+* [Multitenancy with Rails](https://leanpub.com/multi-tenancy-rails)
 * https://learn.thoughtbot.com/products/13 rubyscience
 * http://clean-ruby.com/
 * http://exceptionalruby.com/
 * http://objectsonrails.com/
 * http://devblog.avdi.org/2012/06/05/confident-ruby-beta/
-* eloquent ruby
-* the ruby programming language (pickaxe)
-* agile web development with rails (pragprog)
-* http://www.poodr.info/ with code https://github.com/skmetz/poodr
