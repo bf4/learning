@@ -1,8 +1,6 @@
 ## Online at no cost
-* http://guides.rubyonrails.org/
 * http://ruby.bastardsbook.com/chapters/mechanize/
 * http://xyzpub.com/en/ruby-on-rails/3.2/
-* http://ruby.railstutorial.org/book/ruby-on-rails-tutorial
 * http://rubybestpractices.com/
 * http://sandal.github.com/rbp-book/pdfs/rbp_1-0.pdf
 * http://mislav.uniqpath.com/poignant-guide/
@@ -14,14 +12,24 @@
 * http://www.sapphiresteel.com/The-Book-Of-Ruby
 * http://rails-nutshell.labs.oreilly.com/
 * http://edwinmeyer.com/Integrated_RHG.html
-* http://learn.thoughtbot.com/podcast/20
 * http://oreilly.com/openbook/
 * [Rails 2.3.8](http://guides.rubyonrails.org/v2.3.8/)
 * [Rails 3.0](http://guides.rubyonrails.org/) and [hackfest](http://hackfest.rubyonrails.org/)
 * [MacRuby: The Definitive Guide](http://ofps.oreilly.com/titles/9781449380373/)
 * [Rails 3 in a Nutshell](http://rails-nutshell.labs.oreilly.com/)
+* http://brixen.io/2012/12/11/a-ruby-design-process 
+* [A little Ruby, A lot of Ojbects download](http://archive.org/details/a_little_ruby_a_lot_of_objects) [A little Ruby, A lot of objects blog](http://web.archive.org/web/20100805011345/http://www.visibleworkings.com/little-ruby/)
 * http://rubymotion-tutorials.com/
 * http://www.rustforrubyists.com/book/index.html
+
+### Podcasts
+* http://learn.thoughtbot.com/podcast/20
+* 
+### Guides
+* http://guides.rubyonrails.org/
+* http://ruby.railstutorial.org/book/ruby-on-rails-tutorial
+* https://github.com/thoughtbot/guides
+* https://github.com/barsoom/devbook
 
 ## Paid Books
 * [Rails 4 in Action](http://manning.com/bigg2)
