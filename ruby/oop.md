@@ -11,6 +11,7 @@
 * http://gorban.org/post/32873465932/software-architecture-cheat-sheet https://github.com/notonthehighstreet/holiday
 
 ### Decoupled code examples
+* [In Draper gem, a decorator](https://github.com/drapergem/draper/blob/master/lib/draper/decorator.rb#L184-L194)
 * https://github.com/nulogy/edr
 * [Controller, Repository, Use-Case, Modle](https://gist.github.com/4664751)
 * https://github.com/slagyr/cleantracker 
