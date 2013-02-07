@@ -7,6 +7,7 @@
 * http://ruby.learncodethehardway.org/
 * http://rubykoans.com/
 * http://rubymonk.com/
+* http://ruby-kickstart.com/ https://github.com/JoshCheek/ruby-kickstart
 * http://www.jasimabasheer.com/posts/meta_introduction_to_ruby.html
 * http://railsforzombies.org/
 * http://guides.rubyonrails.org/getting_started.html
@@ -37,5 +38,5 @@
 * http://teamtreehouse.com/library (was thinkvitamin)
 
 ### No Cost
-* http://railscasts.com/pro
+* http://railscasts.com
 
