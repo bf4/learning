@@ -1,11 +1,13 @@
 ## Online at no cost
+* http://rubybestpractices.com/
+* [Ruby Best Practices](http://sandal.github.com/rbp-book/pdfs/rbp_1-0.pdf)
+* [Programming Ruby, 2000](http://www.ruby-doc.org/docs/ProgrammingRuby/)
+* http://www.humblelittlerubybook.com/
+* https://github.com/barsoom/devbook
 * http://ruby.bastardsbook.com/chapters/mechanize/
 * http://xyzpub.com/en/ruby-on-rails/3.2/
-* http://rubybestpractices.com/
-* http://sandal.github.com/rbp-book/pdfs/rbp_1-0.pdf
 * http://mislav.uniqpath.com/poignant-guide/
 * http://web.archive.org/web/20090423015736/http://www.mockobjects.com/book/index.html
-* http://www.humblelittlerubybook.com/
 * http://www.ruby-doc.org/docs/ProgrammingRuby/
 * http://openbook.galileocomputing.de/ruby_on_rails/
 * http://www.sapphiresteel.com/The-Little-Book-Of-Ruby
