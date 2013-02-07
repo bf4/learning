@@ -2,6 +2,8 @@
 * http://rubybestpractices.com/
 * [Ruby Best Practices](http://sandal.github.com/rbp-book/pdfs/rbp_1-0.pdf)
 * [Programming Ruby, 2000](http://www.ruby-doc.org/docs/ProgrammingRuby/)
+* [Rails 3.x](http://guides.rubyonrails.org/) and [hackfest](http://hackfest.rubyonrails.org/)
+* [Rails 2.3.8](http://guides.rubyonrails.org/v2.3.8/)
 * http://www.humblelittlerubybook.com/
 * https://github.com/barsoom/devbook
 * http://ruby.bastardsbook.com/chapters/mechanize/
@@ -12,11 +14,8 @@
 * http://openbook.galileocomputing.de/ruby_on_rails/
 * http://www.sapphiresteel.com/The-Little-Book-Of-Ruby
 * http://www.sapphiresteel.com/The-Book-Of-Ruby
-* http://rails-nutshell.labs.oreilly.com/
 * http://edwinmeyer.com/Integrated_RHG.html
 * http://oreilly.com/openbook/
-* [Rails 2.3.8](http://guides.rubyonrails.org/v2.3.8/)
-* [Rails 3.0](http://guides.rubyonrails.org/) and [hackfest](http://hackfest.rubyonrails.org/)
 * [MacRuby: The Definitive Guide](http://ofps.oreilly.com/titles/9781449380373/)
 * [Rails 3 in a Nutshell](http://rails-nutshell.labs.oreilly.com/)
 * http://brixen.io/2012/12/11/a-ruby-design-process 
