@@ -25,7 +25,7 @@
 
 ### Podcasts
 * http://learn.thoughtbot.com/podcast/20
-* 
+ 
 ### Guides
 * http://guides.rubyonrails.org/
 * http://ruby.railstutorial.org/book/ruby-on-rails-tutorial
@@ -49,3 +49,4 @@
 * http://www.bigfatrails.com/
 * http://rebuilding-rails.com/
 * ruby guide matz  http://www.rubyist.net/~slagell/ruby/
+* https://tutorials.railsapps.org/plan/hobo https://tutorials.railsapps.org/plan/pro
