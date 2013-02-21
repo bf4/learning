@@ -46,3 +46,6 @@
 * http://exceptionalruby.com/
 * http://objectsonrails.com/
 * http://devblog.avdi.org/2012/06/05/confident-ruby-beta/
+* http://www.bigfatrails.com/
+* http://rebuilding-rails.com/
+* ruby guide matz  http://www.rubyist.net/~slagell/ruby/
