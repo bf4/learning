@@ -19,22 +19,22 @@
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-    <script type="text/javascript" src="/js/application.js"></script>
+    <script type="text/javascript" src="{{ BASE_PATH }}/js/application.js"></script>
 
     <!-- Le styles -->
     <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
-    <link rel="stylesheet" href="/css/base.css" type="text/css" media="screen, projection" />
-    <link rel="stylesheet" href="/css/pygments.css" type="text/css" />
-    <link media="only screen and (max-device-width: 480px)" href="/css/iphone.css" type="text/css" rel="stylesheet" />
-    <link media="only screen and (device-width: 768px)" href="/css/iphone.css" type="text/css" rel="stylesheet" />
+    <link rel="stylesheet" href="{{ BASE_PATH }}/css/base.css" type="text/css" media="screen, projection" />
+    <link rel="stylesheet" href="{{ BASE_PATH }}/css/pygments.css" type="text/css" />
+    <link media="only screen and (max-device-width: 480px)" href="{{ BASE_PATH }}/css/iphone.css" type="text/css" rel="stylesheet" />
+    <link media="only screen and (device-width: 768px)" href="{{ BASE_PATH }}/css/iphone.css" type="text/css" rel="stylesheet" />
     <link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz' rel='stylesheet' type='text/css'>
 
     <!-- Le fav and touch icons -->
-    <link rel="shortcut icon" href="/favicon.ico">
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+    <link rel="shortcut icon" href="{{ BASE_PATH }}/favicon.ico">
+    <link rel="apple-touch-icon" href="{{ BASE_PATH }}/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ BASE_PATH }}/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ BASE_PATH }}/apple-touch-icon-114x114.png">
 
     <!-- atom & rss feed -->
     <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
@@ -58,7 +58,7 @@
 
     <section class="sidebar">
       <a href="/">
-        <img src="{{ site.author.gravatar_url }}?s=150" height="75" width="75" class="avatar" />
+        <img src="{{ BASE_PATH }}{{ site.author.logo_url }}?s=150" height="75" width="75" class="avatar" />
       </a>
 
       <section class="name">
@@ -71,14 +71,12 @@
       <section class="meta">
         <a href="https://github.com/{{ site.author.github }}" target="_blank"><img src="/images/github.png" /></a>
         <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank"><img src="/images/twitter.png"></a>
-        <a href="/atom.xml"><img src="/images/rss.png" /></a>
+        <a href="/atom.xml"><img src="{{ BASE_PATH }}/images/rss.png" /></a>
       </section>
 
       <section class="sections">
         <ul>
-          <li><a href="/about.html">about</a></li>
-          <li><a href="/">posts</a></li>
-          <li><a href="{{ site.resume_link }}" target="_blank">{{ site.resume_link_text}}</a></li>
+          <li><a href="{{ BASE_PATH }}/">posts</a></li>
         </ul>
       </section>
     </section>

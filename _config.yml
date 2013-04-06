@@ -21,7 +21,7 @@ author :
   github : rubyrogues
   twitter : rubyrogues
   feedburner : RubyRogues
-  gravatar_url : /apple-touch-icon-57x57-precomposed.png
+  logo_url : /apple-touch-icon-57x57-precomposed.png
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
