@@ -5,4 +5,4 @@ title: Non-ruby Posix
 {% include JB/setup %}
 # Unix
 
-* http://utcc.utoronto.ca/~cks/space/blog/
+* [http://utcc.utoronto.ca/~cks/space/blog/](http://utcc.utoronto.ca/~cks/space/blog/)

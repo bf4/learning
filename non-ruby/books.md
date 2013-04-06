@@ -4,27 +4,27 @@ title: Non-ruby Books
 ---
 {% include JB/setup %}
 ## Miscellaneous online books
-* http://lifehacker.com/5744113/learn-to-code-the-full-beginners-guide
-* https://github.com/arcturo/library
-* http://www.12factor.net/
-* http://eloquentjavascript.net/
-* http://gigamonkeys.com/book/
-* http://openmymind.net/2012/1/23/The-Little-Redis-Book/
-* https://nltk.googlecode.com/svn/trunk/doc/book/ch00.html
-* http://smacss.com/book/type-base
-* http://git-scm.com/book/ch6-1.html
-* http://www.abookapart.com/products/html5-for-web-designers
-* http://singlepageappbook.com/
-* http://apps.topcoder.com/wiki/display/tc/Component+Development+Tutorial
-* http://apps.topcoder.com/wiki/display/tc/Assembly+Competition+Tutorial
-* http://openvim.com/tutorial.html
-* http://lifehacker.com/5935322/khan-academy-computer-science-teaches-you-to-code-through-exploration
-* http://ergoemacs.org/emacs/elisp.html
-* https://github.com/kjbekkelund/writings/blob/master/published/understanding-backbone.md/
-* http://www.developerdrive.com/2012/07/introduction-to-sass/
-* http://marklodato.github.com/visual-git-guide/index-en.html
-* http://www.sense-lang.org/typing/tutor/keyboarding.php
-* http://e2project.org/ learning erlang
+* [http://lifehacker.com/5744113/learn-to-code-the-full-beginners-guide](http://lifehacker.com/5744113/learn-to-code-the-full-beginners-guide)
+* [https://github.com/arcturo/library](https://github.com/arcturo/library)
+* [http://www.12factor.net/](http://www.12factor.net/)
+* [http://eloquentjavascript.net/](http://eloquentjavascript.net/)
+* [http://gigamonkeys.com/book/](http://gigamonkeys.com/book/)
+* [http://openmymind.net/2012/1/23/The-Little-Redis-Book/](http://openmymind.net/2012/1/23/The-Little-Redis-Book/)
+* [https://nltk.googlecode.com/svn/trunk/doc/book/ch00.html](https://nltk.googlecode.com/svn/trunk/doc/book/ch00.html)
+* [http://smacss.com/book/type-base](http://smacss.com/book/type-base)
+* [http://git-scm.com/book/ch6-1.html](http://git-scm.com/book/ch6-1.html)
+* [http://www.abookapart.com/products/html5-for-web-designers](http://www.abookapart.com/products/html5-for-web-designers)
+* [http://singlepageappbook.com/](http://singlepageappbook.com/)
+* [http://apps.topcoder.com/wiki/display/tc/Component+Development+Tutorial](http://apps.topcoder.com/wiki/display/tc/Component+Development+Tutorial)
+* [http://apps.topcoder.com/wiki/display/tc/Assembly+Competition+Tutorial](http://apps.topcoder.com/wiki/display/tc/Assembly+Competition+Tutorial)
+* [http://openvim.com/tutorial.html](http://openvim.com/tutorial.html)
+* [http://lifehacker.com/5935322/khan-academy-computer-science-teaches-you-to-code-through-exploration](http://lifehacker.com/5935322/khan-academy-computer-science-teaches-you-to-code-through-exploration)
+* [http://ergoemacs.org/emacs/elisp.html](http://ergoemacs.org/emacs/elisp.html)
+* [https://github.com/kjbekkelund/writings/blob/master/published/understanding-backbone.md/](https://github.com/kjbekkelund/writings/blob/master/published/understanding-backbone.md/)
+* [http://www.developerdrive.com/2012/07/introduction-to-sass/](http://www.developerdrive.com/2012/07/introduction-to-sass/)
+* [http://marklodato.github.com/visual-git-guide/index-en.html](http://marklodato.github.com/visual-git-guide/index-en.html)
+* [http://www.sense-lang.org/typing/tutor/keyboarding.php](http://www.sense-lang.org/typing/tutor/keyboarding.php)
+* [http://e2project.org/](http://e2project.org/) learning erlang
 * [CouchDB](http://guide.couchdb.org/)
 * [ProGit](http://progit.org/book)
 * [Dive into HTML5](http://diveintohtml5.org/)
@@ -35,4 +35,4 @@ title: Non-ruby Books
 * [HTML Ref](http://htmlref.labs.oreilly.com/beta)
 * [Programming Android](http://programming-android.labs.oreilly.com/index.html)
 * [iPhone 3D](http://iphone-3d-programming.labs.oreilly.com/)
-* http://www.oreillynet.com/linux/cmd/
+* [http://www.oreillynet.com/linux/cmd/](http://www.oreillynet.com/linux/cmd/)
