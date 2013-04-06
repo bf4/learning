@@ -1,46 +1,53 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Ruby Rogues Learning
+tagline: Learn like a Rogue
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+Some learning resources
+========
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+Pull requests to help organize, format, and curate this very welcome.
 
-## Update Author Attributes
+# Contents Layout
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+##General advice:
+* [Rules that aren't rules](http://gist.io/4567190)
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+## Ruby
+### Tutorials
+### Sample Code
+### Books
+* http://railsapps.github.com/best-recommended-learning-rails-books-resources.html
+* http://everydayrails.com/2010/08/04/more-free-ruby-rails-books.html
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+### News
+### Unsorted
 
-    $ rm -rf _posts/core-samples
+## Non-Ruby
+### General Programming Practice
+### Books
+* http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books
 
-Here's a sample "posts list".
+### Business
+* http://playbook.thoughtbot.com/
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+### Online REPLs
 
 
+## TODO
+
+* Annotate the importance of the order of the resource and why
+* Try to keep the list more focused on the useful and up-to-date than comprehensive
+* Try to make the list easy to use to find whatnot
+* How much non-ruby stuff should be in here? How?
+
+## MIT License
+
+
+## HISTORY
+
+The list began as essentially a link dump, and then I added some other resources I had collected, while at it.
+
+Some folks on the Ruby Rogues Parley list suggested I put it online so it could be forked and modified.
