@@ -6,6 +6,13 @@
   <div class="span12">
     <div class="date">
       <span>{{ page.date | date_to_long_string }}</strong>
+      <br>
+      <a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-via="{{ site.author.twitter }}">Tweet</a>
+      <a href="http://twitter.com/{{ site.author.twitter }}" class="twitter-follow-button" data-show-count="false">Follow @{{ site.author.twitter }}</a>
+      <script>
+        _jsLoader.initTwitter();
+      </script>
+
     </div>
     <div class="content">
       {{ content }}
@@ -17,7 +24,7 @@
       {% assign categories_list = page.categories %}
       {% include JB/categories_list %}
     </ul>
-  {% endunless %}  
+  {% endunless %}
 
   {% unless page.tags == empty %}
     <ul class="tag_box inline">
@@ -25,7 +32,7 @@
       {% assign tags_list = page.tags %}
       {% include JB/tags_list %}
     </ul>
-  {% endunless %}  
+  {% endunless %}
 
     <hr>
     <div class="pagination">

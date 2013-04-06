@@ -1,0 +1,41 @@
+body { color: #000000; }
+.clearfix:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+#formats {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: serif;
+  background-color: #f2f2f2;
+}
+#footer {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: serif;
+}
+#resume {
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: serif;
+}
+#resume blockquote {
+  border-left: 5px solid #dddddd;
+  margin: 1em 0;
+  padding-left: 0.6em;
+}
+#resume a {
+  color: #4183c4;
+  text-decoration: none;
+}
+#resume a:visited {
+  color: #4183c4;
+  text-decoration: none;
+}
+#resume a:hover { text-decoration: underline; }
