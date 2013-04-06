@@ -1,10 +1,26 @@
 _site/*
 _theme_packages/*
 
-Thumbs.db
-.DS_Store
-
 !.gitkeep
-
+*.gem
+*.rbc
+.DS_Store
+.bundle
+.config
 .rbenv-version
 .rvmrc
+InstalledFiles
+Thumbs.db
+coverage
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
+
+# YARD artifacts
+.yardoc
+_yardoc
+doc/
