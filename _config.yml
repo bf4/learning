@@ -1,22 +1,27 @@
+pygments: true
+lsi: false
+safe: true
+auto: true
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title 
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-auto: true
-pygments: true
-
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Ruby Rogues
+tagline: A podcast by panel about Ruby and related technologies.
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : The Ruby Rogues
+  email : assistant@devchat.tv
+  github : rubyrogues
+  twitter : rubyrogues
+  feedburner : RubyRogues
+  gravatar_url : /apple-touch-icon-57x57-precomposed.png
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -26,12 +31,12 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.com
+production_url : http://rubyrogues.com/
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
-  version : 0.2.13
+  version : 0.3.0
 
   # All links will be namespaced by BASE_PATH if defined.
   # Links in your website should always be prefixed with {{BASE_PATH}}
@@ -55,6 +60,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
+   BASE_PATH : false
   BASE_PATH : /learning
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
@@ -73,17 +79,19 @@ JB :
   archive_path: /archive.html
   categories_path : /categories.html
   tags_path : /tags.html
+  atom_path : /atom.xml
+  rss_path : /rss.xml
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : livefyre
     disqus :
       short_name : jekyllbootstrap
     livefyre :
-      site_id : 123
+      site_id : 307057
     intensedebate :
       account : 123abc
     facebook :
@@ -97,11 +105,11 @@ JB :
   # Set 'provider' to false to turn analytics off globally.
   #        
   analytics :
-    provider : google 
+    provider : getclicky
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-1111-11'
     getclicky :
-      site_id : 
+      site_id : 66421430
     mixpanel :
         token : '_MIXPANEL_TOKEN_'
 
@@ -111,7 +119,7 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : false
+    provider : tweet
     
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:
@@ -123,4 +131,3 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
-  
