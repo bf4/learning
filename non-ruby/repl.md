@@ -69,13 +69,6 @@ title: Non-ruby Repl
 * [http://rentzsch.github.com/JSRegexTeststand/](http://rentzsch.github.com/JSRegexTeststand/)
 * [Regular expressions fiddle](http://refiddle.com/)
 
-### ARC
-* [http://arclanguage.org/item?id=12212](http://arclanguage.org/item?id=12212) [http://evanrmurphy.posterous.com/try-arc-todo](http://evanrmurphy.posterous.com/try-arc-todo)
-* [RubyFiddle](http://rubyfiddle.com)
-* A list of a bunch: [http://repl.it/](http://repl.it/) and [http://news.ycombinator.com/item?id=3056490](http://news.ycombinator.com/item?id=3056490)
-* Kerning [http://type.method.ac/](http://type.method.ac/)
-* SQL [http://sqlfiddle.com/](http://sqlfiddle.com/)
-
 ### Other
 * vim color schemes [http://bytefluent.com/vivify/](http://bytefluent.com/vivify/)
 * Google closure compiler [http://code.google.com/closure/](http://code.google.com/closure/)
