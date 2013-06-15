@@ -31,3 +31,9 @@
 * [Programming Android](http://programming-android.labs.oreilly.com/index.html)
 * [iPhone 3D](http://iphone-3d-programming.labs.oreilly.com/)
 * http://www.oreillynet.com/linux/cmd/
+* http://www.htdp.org/2003-09-26/Book/
+* http://www.cleveralgorithms.com/nature-inspired/index.html
+* http://designingfortheweb.co.uk/book/index.php
+* http://linkeddatabook.com/editions/1.0/
+* http://mitpress.mit.edu/sicp/full-text/book/book.html
+* http://math.hws.edu/javanotes/
