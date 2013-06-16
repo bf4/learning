@@ -31,3 +31,9 @@
 * [Programming Android](http://programming-android.labs.oreilly.com/index.html)
 * [iPhone 3D](http://iphone-3d-programming.labs.oreilly.com/)
 * http://www.oreillynet.com/linux/cmd/
+* [How to Design Programs](http://www.htdp.org/2003-09-26/Book/)
+* [Clever Algorithms](http://www.cleveralgorithms.com/nature-inspired/index.html)
+* [Designing for the Web](http://designingfortheweb.co.uk/book/index.php)
+* [Linked Data](http://linkeddatabook.com/editions/1.0/)
+* [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book.html)
+* [Introduction to Programming using Java](http://math.hws.edu/javanotes/)
