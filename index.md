@@ -16,24 +16,27 @@ Pull requests to help organize, format, and curate this very welcome.
 * [Rules that aren't rules](http://gist.io/4567190)
 
 ## Ruby
-### Tutorials
-### Sample Code
-### Books
+### [Tutorials]({{BASE_PATH}}/ruby/tutorials.html)
+### [Sample Code]({{BASE_PATH}}/ruby/sample_code.html)
+### [Books]({{BASE_PATH}}/ruby/books.html)
 * [http://railsapps.github.com/best-recommended-learning-rails-books-resources.html](http://railsapps.github.com/best-recommended-learning-rails-books-resources.html)
 * [http://everydayrails.com/2010/08/04/more-free-ruby-rails-books.html](http://everydayrails.com/2010/08/04/more-free-ruby-rails-books.html)
 
-### News
-### Unsorted
+### [News]({{BASE_PATH}}/ruby/news.html)
+### [Unsorted]({{BASE_PATH}}/ruby/unsorted.html)
+### [OOP]({{BASE_PATH}}/ruby/oop.html)
 
 ## Non-Ruby
-### General Programming Practice
-### Books
+### [General Programming Practice]({{BASE_PATH}}/non-ruby/programming_practice.html)
+### [Books]({{BASE_PATH}}/non-ruby/books.html)
 * [http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books)
+### [POSIX]({{BASE_PATH}}/non-ruby/posix.html)
+### [Code Converters]({{BASE_PATH/non-ruby/code_converters.html)
 
 ### Business
 * [http://playbook.thoughtbot.com/](http://playbook.thoughtbot.com/)
 
-### Online REPLs
+### [Online REPLs]({{BASE_PATH}}/non-ruby/repl.html)
 
 
 ## TODO
