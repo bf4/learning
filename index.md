@@ -31,7 +31,7 @@ Pull requests to help organize, format, and curate this very welcome.
 ### [Books]({{BASE_PATH}}/non-ruby/books.html)
 * [http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books)
 ### [POSIX]({{BASE_PATH}}/non-ruby/posix.html)
-### [Code Converters]({{BASE_PATH/non-ruby/code_converters.html)
+### [Code Converters]({{BASE_PATH}}/non-ruby/code_converters.html)
 
 ### Business
 * [http://playbook.thoughtbot.com/](http://playbook.thoughtbot.com/)
