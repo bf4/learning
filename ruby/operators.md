@@ -5,7 +5,9 @@ title: Ruby Operator Nicknames
 ---
 {% include JB/setup %}
 
-|_. operator |_. nicknames |
+
+| Operator | Nickname(s) |
+|------|-------|
 | `=>` |  hashrocket, fat arrow, heavy arrow |
 | `<=>` | spaceship |
 | `===` | threequals |
